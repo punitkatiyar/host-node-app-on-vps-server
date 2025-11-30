@@ -21,4 +21,8 @@ step by step  guide to setup mern app on vps server
 
 > nvm install node
 
-> nvm install --lts 
+> nvm install --lts
+
+> node -v
+
+> npm -v  
