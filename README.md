@@ -3,7 +3,11 @@ step by step  guide to setup mern app on vps server
 
 ## Setup Nginx On VPS Server 
 
-> sudo apt update && sudo apt upgrade -y
+> pwd : root
+
+> sudo apt update
+
+> sudo apt upgrade -y
 
 > sudo apt install nginx -y
 
