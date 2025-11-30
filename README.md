@@ -1,9 +1,7 @@
 # host-mern-app-vps-server
 step by step  guide to setup mern app on vps server
 
-## step 1
-
-> ssh-keygen -f '/root/.ssh/known_hosts' -R 'ip'
+## Setup Nginx On VPS Server 
 
 > sudo apt update && sudo apt upgrade -y
 
