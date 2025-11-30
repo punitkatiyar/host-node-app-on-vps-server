@@ -14,3 +14,5 @@ step by step  guide to setup mern app on vps server
 ## Default Web Directory
 
 > var/www/html/index.nginx-debian.html
+
+## Setup node js and npm 
